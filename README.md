@@ -3,7 +3,6 @@
 1. Aprendendo a clonar um repositorio
 
 ```bash
-
 git clone <url_repositorio_remoto>
 ```
 
@@ -16,3 +15,8 @@ OU
 ```bash
 git add .
 ```
+
+3. Fazendo um commit
+
+````bash
+git commit -m "Mensagem"
