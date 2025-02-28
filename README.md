@@ -18,5 +18,5 @@ git add .
 
 3. Fazendo um commit
 
-````bash
+```bash
 git commit -m "Mensagem"
